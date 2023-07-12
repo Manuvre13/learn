@@ -13,17 +13,17 @@ To get started with FreshConnect, follow these steps:
 3. Create a `.env` file in the root of the project directory and add the following environment variables:
 
 
-GOOGLE_ID=
-GOOGLE_SECRET=
-GITHUB_ID=
-GITHUB_SECRET=
-MONGODB_URI=
-EMAIL_SERVER=
-EMAIL_FROM=user@gmail.com
-SECRET=
-S3_ACCESS_KEY=
-S3_SECRET_ACCESS_KEY=
-S3_BUCKET=
+GOOGLE_ID=<br>
+GOOGLE_SECRET=<br>
+GITHUB_ID=<br>
+GITHUB_SECRET=<br>
+MONGODB_URI=<br>
+EMAIL_SERVER=<br>
+EMAIL_FROM=user@gmail.com<br>
+SECRET=<br>
+S3_ACCESS_KEY=<br>
+S3_SECRET_ACCESS_KEY=<br>
+S3_BUCKET=<br>
 NEXTAUTH_URL="http://localhost:3000/"
 
 
